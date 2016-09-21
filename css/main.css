@@ -1,0 +1,135 @@
+.cabecera{
+	background:#DA1414;
+}
+
+.creamy{
+	color: #FFFFFF;
+	margin-top: 20px;
+	font-size: 20px;
+
+}
+
+.p-creamy2{
+	text-align: center;
+}
+
+.menu{
+	display: table-cell;
+}
+
+a{
+	
+	color:#FFFFFF;
+	text-decoration: none;
+	margin-left: 43px;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	position: relative;
+	left: 230px;
+	top: 20px;
+}
+
+.hackaton{
+	text-align: center;
+}
+.p-creamy{
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.p-creamy2{
+	color: #FFFFFF;
+
+}
+
+.f-foto{
+	background-image: url(../img/creamy.jpg);
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 490px;
+	
+}
+
+/*.contenido{
+
+    background: rgb(14,13,13);
+    opacity: 0.5;
+    width: 450px;
+    height: 177px;
+    position: relative;
+    top: -36px;
+    left: 180px;
+
+    }*/
+
+    .f-crem{
+
+    	background: #F7D495;
+
+    }
+
+    .held{
+    	margin-top: 20px;
+    	width: 500px;
+    	margin-bottom: 20px;
+    }
+
+    .f-fondorojo{
+    	background:#DA1414;
+    	color: #FFFFFF;
+    }
+
+    .p-aboutcreamy{
+    	text-align: center;
+    	margin-top: 71px;
+    }
+
+    .p-aboutcreamy2{
+    	margin-top: 12px;
+    	margin-bottom: 70px;
+    }
+
+    .-pastel{
+    	background: #F7D495;
+
+    }
+
+
+    .p-desktop{
+    	color: #DA1414;
+
+
+    }
+
+    .desk{
+    	color: #DA1414;
+    }
+
+    .p-tags{
+    	color: #DA1414;
+    }
+
+    .tag{
+    	color: #DA1414;
+    }
+
+    .p-love{
+    	color: #DA1414;
+    }
+
+    .lov{
+    	color: #DA1414;
+    }
+
+    .pie-pag{
+    	background:#DA1414;
+    	height: 50px;
+    	margin-top: 63px;
+    }
+    .pie{
+    	color: #FFFFFF;
+    	font-size: 12px;
+    	padding-top: 19px;
+    	margin: 45px;
+    }
